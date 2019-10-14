@@ -1,3 +1,3 @@
-import initialPageLoad from './initialPageLoad';
+import initialPageLoad from './modules/initialPageLoad';
 
 initialPageLoad();
